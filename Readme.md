@@ -20,6 +20,8 @@ This project includes:
 * Lightweight frontend widget
 * Works for insurance, SaaS docs, policies, HR, legal, internal tools, etc.
 
+  <img width="1129" height="603" alt="rag-chat-section" src="https://github.com/user-attachments/assets/e56cf0fb-fa00-46c0-afae-bfbd02a0a1f2" />
+
 ---
 
 ## Project Structure
